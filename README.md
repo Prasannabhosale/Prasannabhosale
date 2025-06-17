@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prasanna Bhosale</h1>
+<h1 align="center">Hi 👋, I'm Prasanna </h1>
 <h3 align="center">⚙️Engineering student upgrading with Data Science tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasannabhosale&label=Profile%20views&color=0e75b6&style=flat" alt="prasannabhosale" /> </p>
